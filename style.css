@@ -1,0 +1,47 @@
+body {
+    background-color: aqua;
+    background-image: url(dead-by-daylight-background-5ows32xzz7entqj4.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+body> header {
+    
+    padding: 10px;
+    margin: 10px;
+    position: fixed;
+    height: 8vh;
+    align-items: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    
+}
+main {
+    padding-top: 9vh;
+    section
+ {
+    background-color: rgba(0, 0, 0, 0.4)
+;
+    color: #fff;
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+ }
+}
